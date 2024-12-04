@@ -1,0 +1,2 @@
+zero: !int 0
+binaryNum: !int 0b1101
