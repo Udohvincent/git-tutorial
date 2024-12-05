@@ -7,3 +7,8 @@ role:
   job: pupil
   age: 10
   school: Stella Maris Private sch
+---
+# motr on data-types for yaml
+
+positiveNum: !int 45
+NegativeNum: !int -55
