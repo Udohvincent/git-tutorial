@@ -10,5 +10,5 @@ role:
 ---
 # motr on data-types for yaml
 
-positiveNum: !int 45
-NegativeNum: !int -55
+positiveNum: !int 450
+NegativeNum: !int -559
